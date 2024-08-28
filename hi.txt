@@ -1,0 +1,1 @@
+To create a more advanced AES encryption and decryption script, I'll enhance the functionality to support encrypting and decrypting strings, files, and entire folders. The script will also allow the user to choose the mode of operation (encrypt or decrypt) and handle different types of input (strings, files, or directories).
